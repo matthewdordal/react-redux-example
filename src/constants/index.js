@@ -1,0 +1,2 @@
+export const UPDATE_FIRST_NAME = 'UPDATE_FIRST_NAME';
+export const UPDATE_LAST_NAME = 'UPDATE_LAST_NAME';
